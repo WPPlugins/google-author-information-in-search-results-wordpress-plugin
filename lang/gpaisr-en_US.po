@@ -1,0 +1,257 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GPAISR\n"
+"POT-Creation-Date: 2014-12-23 13:39+0100\n"
+"PO-Revision-Date: 2014-12-23 13:39+0100\n"
+"Last-Translator: WP-Buddy <info@wp-buddy.com>\n"
+"Language-Team: \n"
+"Language: no\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;__e\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../class.profile.php:33
+msgid "Google+"
+msgstr ""
+
+#: ../class.settings.php:87
+msgid "Google+ Author Free"
+msgstr ""
+
+#: ../class.settings.php:105
+msgid "General"
+msgstr ""
+
+#: ../class.settings.php:111
+msgid "What to do"
+msgstr ""
+
+#: ../class.settings.php:117 ../class.settings.php:558
+msgid "Settings"
+msgstr ""
+
+#: ../class.settings.php:130
+msgid "Important Notice"
+msgstr ""
+
+#: ../class.settings.php:136
+msgid "Share"
+msgstr ""
+
+#: ../class.settings.php:141
+msgid "Discover"
+msgstr ""
+
+#: ../class.settings.php:147
+msgid "Helpful links"
+msgstr ""
+
+#: ../class.settings.php:177
+msgid ""
+"This plugin will replace your author link in your template with your Google+ "
+"Profile link to make sure that your Google+ profile picture will be shown in "
+"the search results and/or Google News."
+msgstr ""
+
+#: ../class.settings.php:178
+msgid ""
+"Alternatively the link can be included after the content if your template "
+"does not show the author  link."
+msgstr ""
+
+#: ../class.settings.php:180
+msgid "Please note:"
+msgstr ""
+
+#: ../class.settings.php:180
+msgid ""
+"Google says that there is no guarantee that a Rich Snippet will be shown for "
+"your page on actual search results."
+msgstr ""
+
+#: ../class.settings.php:180
+msgid "Please click here for more information"
+msgstr ""
+
+#: ../class.settings.php:198
+msgid "A) Set up authorship by linking your content to your Google+ profile"
+msgstr ""
+
+#: ../class.settings.php:202
+#, php-format
+msgid "Follow this link to open your Google+ profile: %s"
+msgstr ""
+
+#: ../class.settings.php:204
+msgid ""
+"Copy your Profile-URL from the address bar to clipboard (see picture below):"
+msgstr ""
+
+#: ../class.settings.php:209
+msgid ""
+"Go to your Wordpress Admin Panel and click Users -> Your Profile. Paste the "
+"above mentioned URL to the field where it says \"Google+\"."
+msgstr ""
+
+#: ../class.settings.php:214
+msgid "Click Update Profile."
+msgstr ""
+
+#: ../class.settings.php:216
+msgid ""
+"Repeat the above steps with all the other Wordpress authors on your blog."
+msgstr ""
+
+#: ../class.settings.php:221
+msgid ""
+"B) Add a reciprocal link back from your profile to the site you just updated"
+msgstr ""
+
+#: ../class.settings.php:225
+#, php-format
+msgid "Follow this link to edit the Contributor To section: %s"
+msgstr ""
+
+#: ../class.settings.php:228
+#, php-format
+msgid ""
+"A dialog will appear. Scroll down to the \"Contributor to\" section. Click "
+"\"Add custom link\" and enter your website URL: %s"
+msgstr ""
+
+#: ../class.settings.php:230
+#, php-format
+msgid "Optional: For the label you can use your website title: %s"
+msgstr ""
+
+#: ../class.settings.php:232
+msgid "If you want, click the drop-down list to specify who can see the link."
+msgstr ""
+
+#: ../class.settings.php:234
+msgid "Click Save."
+msgstr ""
+
+#: ../class.settings.php:236
+msgid "Tell your authors that they should also do step B."
+msgstr ""
+
+#: ../class.settings.php:241
+msgid "C) Test"
+msgstr ""
+
+#: ../class.settings.php:245
+msgid ""
+"To see what author data Google can extract from your page, use the Rich "
+"Snippet Testing Tool."
+msgstr ""
+
+#: ../class.settings.php:284
+msgid "Test the latest post or page."
+msgstr ""
+
+#: ../class.settings.php:378
+msgid "Add to the header"
+msgstr ""
+
+#: ../class.settings.php:383
+msgid "Replace author link with the Google Profile URL?"
+msgstr ""
+
+#: ../class.settings.php:388
+msgid "Show or hide the link in the content-section?"
+msgstr ""
+
+#: ../class.settings.php:393
+msgid "Open the link in a new window?"
+msgstr ""
+
+#: ../class.settings.php:398
+msgid "Display in Feed?"
+msgstr ""
+
+#: ../class.settings.php:403
+msgid "Link text"
+msgstr ""
+
+#: ../class.settings.php:425
+msgid ""
+"Not every theme shows the Author-Link right beside a page or an article. In "
+"this case activate the link to be included after the content."
+msgstr ""
+
+#: ../class.settings.php:435
+msgid "(Recommended. Not visible to the user.)"
+msgstr ""
+
+#: ../class.settings.php:471
+msgid "Yes"
+msgstr ""
+
+#: ../class.settings.php:471
+msgid "(Please note: Some themes does not support this.)"
+msgstr ""
+
+#: ../class.settings.php:472
+msgid "No"
+msgstr ""
+
+#: ../class.settings.php:472
+msgid "Instead show it in the content-area (see below)"
+msgstr ""
+
+#: ../class.settings.php:489
+msgid "Hide"
+msgstr ""
+
+#: ../class.settings.php:489
+msgid "(Please not that Google does not like hidden links)"
+msgstr ""
+
+#: ../class.settings.php:490
+msgid "Show"
+msgstr ""
+
+#: ../class.settings.php:518
+msgid "Check this if you want to display the Google+ Link inside the feeds."
+msgstr ""
+
+#: ../class.settings.php:545
+msgid ""
+"Need more options and an automatic test? Check out the Extended Version of "
+"this Plugin"
+msgstr ""
+
+#: ../class.settings.php:559
+msgid "More Plugins by WPBuddy"
+msgstr ""
+
+#: ../class.settings.php:574
+msgid "Installation manual"
+msgstr ""
+
+#: ../class.settings.php:577
+msgid "Support forum"
+msgstr ""
+
+#: ../class.settings.php:580
+msgid "Changelog"
+msgstr ""
+
+#: ../class.settings.php:582
+msgid "Get the full version"
+msgstr ""
+
+#: ../class.settings.php:585
+msgid "More cool stuff by WPBuddy"
+msgstr ""
+
+#: ../page.settings.php:3
+msgid "Google+ Authorship (Free) Settings"
+msgstr ""
